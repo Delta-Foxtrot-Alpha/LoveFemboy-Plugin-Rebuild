@@ -1,4 +1,4 @@
-(function(c,p,y,d,u,r,w,b){
+ (function(c,p,y,d,u,r,w,b){
     "use strict";
     const {ScrollView:v} = u.General,
           {FormSection:f, FormRadioRow:_, FormSwitchRow:F, FormIcon:S} = u.Forms;
