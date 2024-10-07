@@ -11,10 +11,10 @@
       "id": "786586936910807060"   
     }
   ],
-  "main": "https://raw.githubusercontent.com/Delta-Foxtrot-Alpha/LoveFemboy-Plugin-Rebuild/refs/heads/main/index.js",
+  "main": "https://delta-foxtrot-alpha.github.io/LoveFemboy-Plugin-Rebuild/index.js",
   "vendetta": {
     "icon": "ic_reaction_smile",
-    "original": "vendetta.sdh.gay/LoveFemboys/"
+    "original": "https://delta-foxtrot-alpha.github.io/LoveFemboy-Plugin-Rebuild/"
   },
   "hash": "c07b19599e96af90358b80a5a8c15c96d2fcff854340ea884198be7670df5f49"
 }
