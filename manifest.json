@@ -7,7 +7,7 @@
       "id": "1075879793368760450"
     }
   ],
-  "main": "https://delta-foxtrot-alpha.github.io/LoveFemboy-Plugin-Rebuild/index.js",
+  "main": "index.js",
   "vendetta": {
     "icon": "ic_reaction_smile",
     "original": "https://delta-foxtrot-alpha.github.io/LoveFemboy-Plugin-Rebuild/"
