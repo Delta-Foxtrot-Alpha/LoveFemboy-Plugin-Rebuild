@@ -11,7 +11,7 @@
       "id": "786586936910807060"   
     }
   ],
-  "main": "index.js",
+  "main": "https://raw.githubusercontent.com/Delta-Foxtrot-Alpha/LoveFemboy-Plugin-Rebuild/refs/heads/main/index.js",
   "vendetta": {
     "icon": "ic_reaction_smile",
     "original": "vendetta.sdh.gay/LoveFemboys/"
